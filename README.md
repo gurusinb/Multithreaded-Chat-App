@@ -12,6 +12,7 @@
 │   ├── userbase.json
 |   ├── backup/
 │   │   ├── chat_backup.txt
+├── Project_Design.pdf
 ├── README.md
 ├── LICENSE
 ```
